@@ -1,0 +1,91 @@
+baseURL = "https://roommoodshop.github.io/"
+languageCode = "ko-kr"
+title = "roommoodshop 쇼핑 블로그"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+summaryLength = 35
+
+[pagination]
+pagerSize = 12
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+[minify]
+disableXML = false
+minifyOutput = true
+
+[sitemap]
+changefreq = "daily"
+priority = 0.7
+filename = "sitemap.xml"
+
+[permalinks]
+posts = "/posts/:slug/"
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowShareButtons = true
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+TocOpen = false
+env = "production"
+description = "감성적인 홈 인테리어와 무드를 완성하는 소품 쇼핑 블로그입니다. 조명, 패브릭, 디퓨저 등 공간에 분위기를 더하는 다양한 인테리어 아이템을 소개합니다"
+keywords = ["인테리어소품", "홈데코", "무드조명", "감성인테리어", "홈퍼니싱"]
+images = ["/images/og-default.webp"]
+
+# Search engine verification (set only when needed)
+googleSiteVerification = ""
+naverSiteVerification = ""
+bingSiteVerification = ""
+yandexSiteVerification = ""
+
+[params.homeInfoParams]
+Title = "공간에 감성을 담다, 룸무드샵 인테리어 큐레이션"
+Content = "나만의 특별한 공간을 만들고 싶으신가요? 룸무드샵에서는 공간에 따뜻한 감성과 분위기를 더해주는 인테리어 소품들을 매일 업데이트합니다. 무드 조명부터 감성 패브릭, 아로마 디퓨저까지 당신의 공간을 더욱 특별하게 만들어줄 아이템을 만나보세요."
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 2
+keys = ["title", "permalink", "summary", "content"]
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 5
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 30
