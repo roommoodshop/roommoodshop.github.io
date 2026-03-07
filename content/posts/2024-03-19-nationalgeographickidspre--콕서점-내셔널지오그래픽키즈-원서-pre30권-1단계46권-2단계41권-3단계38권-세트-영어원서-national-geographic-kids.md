@@ -1,11 +1,10 @@
 ---
-title: "nationalgeographickidspre  [30~50대 남성추천]  [콕서점] 내셔널지오그래픽키즈 원서 pre-(30권) 1단계-(46권) 2단계-(41권) 3단계-(38권) 세트 영어원서  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'nationalgeographickidspre  [30~50대 남성추천]  [콕서점] 내셔널지오그래픽키즈 원서 pre-(30권) 1단계-(46권) 2단계-(41권) 3단계-(38권) 세트 영어원서  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-19
-slug: "nationalgeographickidspre--콕서점-내셔널지오그래픽키즈-원서-pre30권-1단계46권-2단계41권-3단계38권-세트-영어원서-national-geographic-kids"
-author: Moon
+slug: 'nationalgeographickidspre--콕서점-내셔널지오그래픽키즈-원서-pre30권-1단계46권-2단계41권-3단계38권-세트-영어원서-national-geographic-kids'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, nationalgeographickidspre]
----
 
 **어린이들의 학습과 재미를 위한 National Geographic Kids Pre**
 

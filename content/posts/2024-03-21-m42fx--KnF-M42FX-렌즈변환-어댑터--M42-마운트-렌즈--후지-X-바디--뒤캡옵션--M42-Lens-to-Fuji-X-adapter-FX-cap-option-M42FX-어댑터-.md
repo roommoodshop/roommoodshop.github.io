@@ -1,11 +1,10 @@
 ---
-title: "m42fx  | KnF M42-FX 렌즈변환 어댑터 - M42 마운트 렌즈 > 후지 X 바디 - 뒤캡옵션 __ M42 Lens to Fuj 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'm42fx  | KnF M42-FX 렌즈변환 어댑터 - M42 마운트 렌즈 > 후지 X 바디 - 뒤캡옵션 __ M42 Lens to Fuj 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-21
-slug: "m42fx--KnF-M42FX-렌즈변환-어댑터--M42-마운트-렌즈--후지-X-바디--뒤캡옵션--M42-Lens-to-Fuji-X-adapter-FX-cap-option-M42FX-어댑터-"
-author: Moon
+slug: 'm42fx--KnF-M42FX-렌즈변환-어댑터--M42-마운트-렌즈--후지-X-바디--뒤캡옵션--M42-Lens-to-Fuji-X-adapter-FX-cap-option-M42FX-어댑터-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, m42fx]
----
 
 ## m42fx: 새로운 사진술의 경계를 뛰어넘는 고성능 렌즈
 

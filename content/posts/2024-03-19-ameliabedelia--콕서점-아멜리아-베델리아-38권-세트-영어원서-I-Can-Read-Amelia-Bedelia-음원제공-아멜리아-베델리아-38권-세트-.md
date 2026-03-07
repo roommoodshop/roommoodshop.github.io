@@ -1,11 +1,10 @@
 ---
-title: "ameliabedelia  [30~50대 남성추천]  [콕서점] 아멜리아 베델리아 38권 세트 영어원서 I Can Read Amelia Bedelia 음원제공, 아멜리아 베델리 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'ameliabedelia  [30~50대 남성추천]  [콕서점] 아멜리아 베델리아 38권 세트 영어원서 I Can Read Amelia Bedelia 음원제공, 아멜리아 베델리 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-19
-slug: "ameliabedelia--콕서점-아멜리아-베델리아-38권-세트-영어원서-I-Can-Read-Amelia-Bedelia-음원제공-아멜리아-베델리아-38권-세트-"
-author: Moon
+slug: 'ameliabedelia--콕서점-아멜리아-베델리아-38권-세트-영어원서-I-Can-Read-Amelia-Bedelia-음원제공-아멜리아-베델리아-38권-세트-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, ameliabedelia]
----
 
 ## 아멜리아 베델리아, 훌륭한 가정부를 찾고 계신 분께 완벽한 선택
 

@@ -1,11 +1,10 @@
 ---
-title: "horriblescience  [30~50대 남성추천]  Horrible Science : Bulging Box of Books 개정판:테리 디어리 - 앗! 시리즈 과학 호러블 사 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'horriblescience  [30~50대 남성추천]  Horrible Science : Bulging Box of Books 개정판:테리 디어리 - 앗! 시리즈 과학 호러블 사 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-19
-slug: "horriblescience--Horrible-Science--Bulging-Box-of-Books-개정판테리-디어리--앗-시리즈-과학-호러블-사이언스-20종-박스세트-Scholastic-UK-Ltd-"
-author: Moon
+slug: 'horriblescience--Horrible-Science--Bulging-Box-of-Books-개정판테리-디어리--앗-시리즈-과학-호러블-사이언스-20종-박스세트-Scholastic-UK-Ltd-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, horriblescience]
----
 
 
 

@@ -1,11 +1,10 @@
 ---
-title: "thenotebookofdoom  [30~50대 남성추천]  First 50 Recording Techniques You Should Know To Track Music 레코딩을 위한 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'thenotebookofdoom  [30~50대 남성추천]  First 50 Recording Techniques You Should Know To Track Music 레코딩을 위한 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-19
-slug: "thenotebookofdoom--First-50-Recording-Techniques-You-Should-Know-To-Track-Music-레코딩을-위한-50개의-필수-테크닉-Hal-Leonard-할-레오나드-"
-author: Moon
+slug: 'thenotebookofdoom--First-50-Recording-Techniques-You-Should-Know-To-Track-Music-레코딩을-위한-50개의-필수-테크닉-Hal-Leonard-할-레오나드-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, thenotebookofdoom]
----
 
 ## 'The Notebook of Doom'으로 어둠의 비밀을 풀어라
 

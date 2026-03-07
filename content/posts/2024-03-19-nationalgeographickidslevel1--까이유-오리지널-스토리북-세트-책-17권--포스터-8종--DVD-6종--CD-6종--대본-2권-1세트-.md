@@ -1,11 +1,10 @@
 ---
-title: "nationalgeographickidslevel1  [30~50대 남성추천]  까이유 오리지널 스토리북 세트 책 17권 + 포스터 8종 + DVD 6종 + CD 6종 + 대본 2권, 1세트  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: 'nationalgeographickidslevel1  [30~50대 남성추천]  까이유 오리지널 스토리북 세트 책 17권 + 포스터 8종 + DVD 6종 + CD 6종 + 대본 2권, 1세트  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-19
-slug: "nationalgeographickidslevel1--까이유-오리지널-스토리북-세트-책-17권--포스터-8종--DVD-6종--CD-6종--대본-2권-1세트-"
-author: Moon
+slug: 'nationalgeographickidslevel1--까이유-오리지널-스토리북-세트-책-17권--포스터-8종--DVD-6종--CD-6종--대본-2권-1세트-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, nationalgeographickidslevel1]
----
 
 **National Geographic Kids Level 1: 탐험의 여정 시작하기**
 
