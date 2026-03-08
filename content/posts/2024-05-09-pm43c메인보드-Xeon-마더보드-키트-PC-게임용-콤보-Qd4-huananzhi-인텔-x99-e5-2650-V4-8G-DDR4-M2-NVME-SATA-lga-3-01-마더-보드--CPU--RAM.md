@@ -1,10 +1,10 @@
-﻿---
-title: "pm43c메인보드  [20~30대 여성추천] Xeon 마더보드 키트 PC 게임용 콤보 Qd4 huananzhi 인텔 x99 e5 2650 V4 8G DDR4 M.2 NV 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: 'pm43c메인보드  [20~30대 여성추천] Xeon 마더보드 키트 PC 게임용 콤보 Qd4 huananzhi 인텔 x99 e5 2650 V4 8G DDR4 M.2 NV 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-09
-slug: "pm43c메인보드-Xeon-마더보드-키트-PC-게임용-콤보-Qd4-huananzhi-인텔-x99-e5-2650-V4-8G-DDR4-M2-NVME-SATA-lga-3-01-마더-보드--CPU--RAM"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, pm43c메인보드]
+slug: 'pm43c메인보드-Xeon-마더보드-키트-PC-게임용-콤보-Qd4-huananzhi-인텔-x99-e5-2650-V4-8G-DDR4-M2-NVME-SATA-lga-3-01-마더-보드--CPU--RAM'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'pm43c메인보드']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

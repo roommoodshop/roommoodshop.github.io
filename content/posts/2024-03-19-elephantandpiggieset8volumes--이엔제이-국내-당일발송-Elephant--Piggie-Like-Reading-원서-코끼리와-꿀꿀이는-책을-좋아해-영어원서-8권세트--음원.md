@@ -3,8 +3,9 @@ title: 'elephantandpiggieset(8volumes)  [30~50대 남성추천]  [이엔제이] 
 date: 2024-03-19
 slug: 'elephantandpiggieset8volumes--이엔제이-국내-당일발송-Elephant--Piggie-Like-Reading-원서-코끼리와-꿀꿀이는-책을-좋아해-영어원서-8권세트--음원'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, elephantandpiggieset(8volumes)]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'elephantandpiggieset(8volumes)']
+---
 
 ## 어린이를 위한 독서 즐거움: Elephant & Piggie 세트(8권)
 

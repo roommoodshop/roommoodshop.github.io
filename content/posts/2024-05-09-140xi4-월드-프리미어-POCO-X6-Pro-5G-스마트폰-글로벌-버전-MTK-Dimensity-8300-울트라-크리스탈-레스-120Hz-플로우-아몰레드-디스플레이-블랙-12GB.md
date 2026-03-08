@@ -1,10 +1,10 @@
-﻿---
-title: "140xi4  [40~50대 여성추천] 월드 프리미어 POCO X6 Pro 5G 스마트폰 글로벌 버전 MTK Dimensity 8300 울트라 크리스탈 레스 120 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: '140xi4  [40~50대 여성추천] 월드 프리미어 POCO X6 Pro 5G 스마트폰 글로벌 버전 MTK Dimensity 8300 울트라 크리스탈 레스 120 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-09
-slug: "140xi4-월드-프리미어-POCO-X6-Pro-5G-스마트폰-글로벌-버전-MTK-Dimensity-8300-울트라-크리스탈-레스-120Hz-플로우-아몰레드-디스플레이-블랙-12GB"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 140xi4]
+slug: '140xi4-월드-프리미어-POCO-X6-Pro-5G-스마트폰-글로벌-버전-MTK-Dimensity-8300-울트라-크리스탈-레스-120Hz-플로우-아몰레드-디스플레이-블랙-12GB'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '140xi4']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>

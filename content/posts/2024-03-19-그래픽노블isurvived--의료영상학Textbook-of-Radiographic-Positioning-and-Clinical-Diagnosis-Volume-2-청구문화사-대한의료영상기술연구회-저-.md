@@ -3,8 +3,9 @@ title: '그래픽노블isurvived  [30~50대 남성추천]  의료영상학(Textb
 date: 2024-03-19
 slug: '그래픽노블isurvived--의료영상학Textbook-of-Radiographic-Positioning-and-Clinical-Diagnosis-Volume-2-청구문화사-대한의료영상기술연구회-저-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 그래픽노블isurvived]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '그래픽노블isurvived']
+---
 
 **I Survived 역사적 재난을 생생하게 체험하는 그래픽 노블**
 

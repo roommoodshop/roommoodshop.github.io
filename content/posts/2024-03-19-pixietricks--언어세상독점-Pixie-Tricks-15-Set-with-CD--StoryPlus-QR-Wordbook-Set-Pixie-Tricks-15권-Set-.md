@@ -3,8 +3,9 @@ title: 'pixietricks  [30~50대 남성추천]  [언어세상독점] Pixie Tricks 
 date: 2024-03-19
 slug: 'pixietricks--언어세상독점-Pixie-Tricks-15-Set-with-CD--StoryPlus-QR-Wordbook-Set-Pixie-Tricks-15권-Set-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, pixietricks]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'pixietricks']
+---
 
 **PixieTricks - 마법 같은 사진 편집 앱**
 

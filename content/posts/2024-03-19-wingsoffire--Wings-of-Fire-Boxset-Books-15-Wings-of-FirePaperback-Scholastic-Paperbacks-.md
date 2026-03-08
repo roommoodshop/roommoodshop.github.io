@@ -3,8 +3,9 @@ title: 'wingsoffire  [30~50대 남성추천]  Wings of Fire Boxset Books 1-5 (Wi
 date: 2024-03-19
 slug: 'wingsoffire--Wings-of-Fire-Boxset-Books-15-Wings-of-FirePaperback-Scholastic-Paperbacks-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, wingsoffire]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'wingsoffire']
+---
 
 ## 불의 숨결의 날개 펼치기: wingsoffire
 

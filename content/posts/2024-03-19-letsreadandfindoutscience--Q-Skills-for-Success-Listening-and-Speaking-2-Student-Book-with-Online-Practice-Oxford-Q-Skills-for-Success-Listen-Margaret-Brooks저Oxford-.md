@@ -3,8 +3,9 @@ title: 'letsreadandfindoutscience  [30~50대 남성추천]  Q Skills for Success
 date: 2024-03-19
 slug: 'letsreadandfindoutscience--Q-Skills-for-Success-Listening-and-Speaking-2-Student-Book-with-Online-Practice-Oxford-Q-Skills-for-Success-Listen-Margaret-Brooks저Oxford-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, letsreadandfindoutscience]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'letsreadandfindoutscience']
+---
 
 **어린이 과학 지식을 넓히는 아주 좋은 책**
 
