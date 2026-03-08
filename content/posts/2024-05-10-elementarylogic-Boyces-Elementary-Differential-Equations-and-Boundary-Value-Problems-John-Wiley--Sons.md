@@ -1,5 +1,5 @@
 ---
-title: 'elementarylogic  |Boyce''s Elementary Differential Equations and Boundary Value Problems 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
+title: 'elementarylogic  |Boyce''''s Elementary Differential Equations and Boundary Value Problems 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-10
 slug: 'elementarylogic-Boyces-Elementary-Differential-Equations-and-Boundary-Value-Problems-John-Wiley--Sons'
 author: 'Moon'
